@@ -1,2 +1,2 @@
-# Compose-weather-app
+# Compose weather app
 demo weather app
